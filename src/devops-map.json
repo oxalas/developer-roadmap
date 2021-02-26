@@ -3404,7 +3404,7 @@
           "measuredW": "368",
           "properties": {
             "size": "15",
-            "text": "with any Linux distro. Pick Ubuntu if you have a little to"
+            "text": "with any Linux distro. Pick Ubuntu if you have little to"
           },
           "typeID": "Label",
           "w": "352",
@@ -4763,7 +4763,7 @@
           "properties": {
             "bold": "true",
             "size": "15",
-            "text": "Logs Management"
+            "text": "Log Management"
           },
           "typeID": "Label",
           "x": "720",
